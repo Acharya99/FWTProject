@@ -31,7 +31,7 @@ a, p, button { font-size: 16px; }
 
 li { padding: 5px 0 }
 
-body>a, body>button {
+/*body>a, body>button {
   display: initial;
   border-radius: 3px;
   border: 1px solid #fff;
@@ -59,7 +59,7 @@ body>a:after, body>button:after {
   z-index: -1;
   display: block
 }
-
+*/
 body>a:hover, body>button:hover { color: #000 }
 
 body>a:hover:after, body>button:hover:after {
